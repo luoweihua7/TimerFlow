@@ -4,7 +4,7 @@ import os
 
 _dics = {
   'en_US': {
-    'TITLE_DEFAULT' : u'Add a timer reminder',
+    'TITLE_DEFAULT' : u'Add a timer',
     'SUBTITLE_DEFAULT' : u'Please input delay time and message, eg: "timer 5s Hello"',
     'TITLE_INPUT_DEFAULT' : u'Delay %s',
     'SUBTITLE_INPUT_DEFAULT' : u'Show message: "%s"',

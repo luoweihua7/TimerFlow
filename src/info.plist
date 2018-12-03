@@ -38,11 +38,11 @@
 	<key>createdby</key>
 	<string>Paul Eunjae Lee</string>
 	<key>description</key>
-	<string>A simple timer</string>
+	<string>A simple timer, created by Paul Eunjae Lee</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Simple Timer</string>
+	<string>TimerFlow</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -55,9 +55,9 @@
 				<key>removeextension</key>
 				<false/>
 				<key>text</key>
-				<string>Alarm</string>
-				<key>title</key>
 				<string>{query}</string>
+				<key>title</key>
+				<string>Timer</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
